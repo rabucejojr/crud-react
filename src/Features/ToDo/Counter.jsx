@@ -7,7 +7,7 @@ export function Counter() {
   const dispatch = useDispatch()
 
   return (
-    <div>
+    <div style={{display:'flex', justifyContent:'center'}}>
       <div>
         <button
           aria-label='Increment value'
@@ -26,4 +26,3 @@ export function Counter() {
     </div>
   )
 }
-                                                                                                                                                                                                                                qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq

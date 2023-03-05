@@ -1,9 +1,10 @@
 import React from 'react'
+import { Counter } from './Features/ToDo/Counter'
 
 function App() {
   return (
     <>
-    <h1>Test</h1>
+      <Counter />
     </>
   )
 }

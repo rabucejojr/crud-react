@@ -1,11 +1,9 @@
 import React from 'react'
-import { Counter } from './features/counter'
-import { Crud } from './pages'
 
 function App() {
   return (
     <>
-      <Counter />
+    <h1>Test</h1>
     </>
   )
 }
